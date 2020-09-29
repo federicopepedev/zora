@@ -31,7 +31,7 @@ Seed database
 ```
 php artisan db:seed
 ``` 
-# Contact
+## Contact
 
 Please send an e-mail to Federico Pepe via federicopepedev@gmail.com
 
