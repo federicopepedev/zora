@@ -1,6 +1,6 @@
 ## About Zora 
 
-Zora is an open source Content Management System based on the Laravel PHP Framework.
+Zora is an open source Content Management System based on Laravel.
 
 ## Installation
 
@@ -11,8 +11,6 @@ git clone https://github.com/federicopepedev/zora.git projectName
 Install dependencies 
 ```
 composer install
-```
-```
 npm install
 ```
 Copy the .env.example file and rename it into the .env file
@@ -31,6 +29,12 @@ Seed database
 ```
 php artisan db:seed
 ``` 
+You can now login using
+
+| Email        | Password           |
+| ------------- |:-------------:|
+| admin@admin.com      | admin | 
+
 ## Contact
 
 Please send an e-mail to Federico Pepe via federicopepedev@gmail.com
